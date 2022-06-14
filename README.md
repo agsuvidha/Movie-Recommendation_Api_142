@@ -9,3 +9,10 @@ https://snack.expo.dev/@agsuvidha/mov_recc_1_143_work
 
 Run 142 api using python
 Enabel cors changer and refresh the snack page to see the output
+
+
+To tun React App Part 2 (Final)
+https://snack.expo.dev/@agsuvidha/movie_recommendation_2_144_work
+
+Run 142 api using python
+Enabel cors changer and refresh the snack page to see the output
